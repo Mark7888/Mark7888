@@ -12,7 +12,7 @@ me := Developer{
     Location:      "Hungary",
     Focus:         []string{"Backend", "Automation", "Cloud"},
     CurrentlyInto: "Building scalable APIs & microservices",
-    Hobbies:       []string{"Open Source", "Embedded Systems", "Hobby Projects"},
+    Hobbies:       []string{"Open Source", "Embedded Systems", "3D Printing"},
 }
 ```
 
